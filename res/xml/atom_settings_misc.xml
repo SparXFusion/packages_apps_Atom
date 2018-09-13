@@ -34,5 +34,12 @@
             android:summary="@string/allow_signature_fake_summary"
             android:defaultValue="false" />
 
+    <com.atom.settings.preferences.SystemSettingSwitchPreference
+        android:key="swap_volume_buttons"
+        android:title="@string/swap_volume_buttons_title"
+        android:summary="@string/swap_volume_buttons_summary"
+        android:defaultValue="false" />
+
+
 
 </PreferenceScreen>
