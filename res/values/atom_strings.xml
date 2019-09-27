@@ -378,6 +378,10 @@
     <string name="fod_pressed_state_icon_white">Icon (White)</string>
     <string name="fod_pressed_state_solid_color">Solid color (usually Green)</string>
 
+     <!-- Show VoLTE icon on statusbar -->
+    <string name="volte_icon_title">VoLTE icon</string>
+    <string name="volte_icon_summary">Display VoLTE icon (Needs a SystemUI restart to take effect)</string>
+
 </resources>
 
 

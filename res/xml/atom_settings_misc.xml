@@ -52,4 +52,10 @@
             android:summary="@string/use_old_mobiletype_summary"
             android:defaultValue="false" />
 
+    <com.atom.settings.preferences.SystemSettingSwitchPreference
+            android:key="volte_icon"
+            android:title="@string/volte_icon_title"
+            android:summary="@string/volte_icon_summary"
+            android:defaultValue="false"/>
+
 </PreferenceScreen>
