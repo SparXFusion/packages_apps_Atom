@@ -248,5 +248,11 @@
   <string name="lock_ownerinfo_font_summary">Change the default font of the lockscreen owner info</string>
   <string name="lock_ownerinfo_font_dialog_title">Select lock owner info font</string>
   <string name="lockowner_font_size_title">Owner info font size</string>
+
+  <string name="lockscreen_info_title">Lockscreen info elements</string>
+  
+  
+ <string name="lockscreen_battery_info_title">Charging info</string> 
+ <string name="lockscreen_battery_info_summary">Display charger max  current, voltage and battery temperature while charging</string>
 </resources>
 
