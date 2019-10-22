@@ -40,4 +40,11 @@
             android:summary="@string/enable_oneui_summary"
             android:defaultValue="true" />
 
-</PreferenceScreen>
+    <Preference 
+          android:key="lockscreen_style" 
+          android:title="@string/lockscreen_style_title"
+          android:summary="@string/lockscreen_style_summary"   
+          android:fragment="com.atom.settings.fragments.LockscreenStyle" />
+
+ </PreferenceScreen>
+
