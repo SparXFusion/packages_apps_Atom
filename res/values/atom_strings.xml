@@ -232,4 +232,15 @@
 
    <string name="lockscreen_style_title">Lockscreen Style</string>
    <string name="lockscreen_style_summary">Customize the lockscreen Style</string>
+
+  <!-- Lock Date Fonts -->  
+  <string name="lock_date_font_title">Date font options</string>
+  <string name="lock_date_font_summary">Change the default font of the lockscreen date widget</string>
+  <string name="lock_date_font_dialog_title">Select lock date font</string>
+
+  <!-- Lock Date Fonts -->
+  <string name="lock_date_font_title">Date font options</string>
+  <string name="lock_date_font_summary">Change the default font of the lockscreen date widget</string>
+  <string name="lock_date_font_dialog_title">Select lock date font</string>
 </resources>
+
