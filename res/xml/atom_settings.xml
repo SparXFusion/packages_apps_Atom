@@ -78,10 +78,10 @@
             android:icon="@drawable/ic_settings_notification"/>
 
         <!-- Misc -->
-        <!--Preference
+        <Preference
             android:key="misc_category"
             android:title="@string/misc_title"
             android:fragment="com.atom.settings.fragments.MiscSettings"
-            android:icon="@drawable/ic_settings_miscs"/-->
+            android:icon="@drawable/ic_settings_miscs"/>
 
 </PreferenceScreen>
