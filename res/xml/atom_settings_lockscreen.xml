@@ -85,7 +85,18 @@
         android:defaultValue="0"
         android:dependency="fod_recognizing_animation" />
 
+    </PreferenceCategory>
 
+     <PreferenceCategory
+
+        android:key="ls_unlocking"
+        android:title="@string/ls_unlocking">
+
+     <com.atom.settings.preferences.SystemSettingSwitchPreference
+            android:key="pocket_judge"
+            android:title="@string/pocket_judge_title"
+            android:summary="@string/pocket_judge_summary"
+            android:defaultValue="false" />
 
     </PreferenceCategory>
 
