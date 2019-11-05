@@ -120,6 +120,11 @@
         android:fragment="com.atom.settings.fragments.FooterText"
         android:title="@string/footer_text_title" />
 
+    <Preference
+        android:key="statusbar_header"
+        android:fragment="com.atom.settings.fragments.StatusBarHeader"
+        android:title="@string/statusbar_header_title" />
+
 
  </PreferenceScreen>
 
