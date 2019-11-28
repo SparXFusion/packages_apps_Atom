@@ -396,6 +396,12 @@
     <string name="pocket_judge_fp_summary">Listen for fingerprint when pocket detection is active</string>
 
 
+     <!-- QS footer text -->
+    <string name="footer_text_title">QS Footer text</string>
+    <string name="atom_footer_text_show_title">Show QS footer text</string>
+    <string name="atom_footer_text_string_title">Customize footer text</string>
+    <string name="atom_footer_text_string_summary">Set to empty for default #StayAtomic</string>
+
 </resources>
 
 

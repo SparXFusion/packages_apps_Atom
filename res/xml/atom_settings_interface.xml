@@ -114,6 +114,12 @@
             android:summary="@string/corners_category_summary"
             android:fragment="com.atom.settings.fragments.RoundedCornersSettings" />
 
+    
+    <Preference
+        android:key="footer_text"
+        android:fragment="com.atom.settings.fragments.FooterText"
+        android:title="@string/footer_text_title" />
+
 
  </PreferenceScreen>
 

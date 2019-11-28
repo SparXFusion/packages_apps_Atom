@@ -17,9 +17,10 @@
 package com.atom.settings.preferences;
 
 import android.content.Context;
-import androidx.preference.EditTextPreference;
 import android.text.TextUtils;
 import android.util.AttributeSet;
+
+import androidx.preference.EditTextPreference;
 
 public class SystemSettingEditTextPreference extends EditTextPreference {
     private boolean mAutoSummary = false;
