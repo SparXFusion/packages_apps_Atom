@@ -349,7 +349,30 @@
     <string name="data_disabled_icon_title">Show data disabled icon</string>
     <string name="data_disabled_icon_summary">Display the cross sign next to signal bar when data is disabled</string>
 
-   
+    <!-- RGB Accenter -->
+    <string name="theme_rgb_title">RGB Accent | Gradient Theming</string>
+    <string name="themes_hub_title">Themes Hub</string>
+    <string name="themes_hub_summary">Accents-Gradients-Themes</string>
+    <string name="accent_color">Accent picker</string>
+    <string name="accent_summary">Gradient Maker</string>
+    <string name="gradient_color">Gradient picker</string>
+    <string name="gradient_summary">Gradient effect maker</string>
+
+    <!-- Old mobile type icons -->
+    <string name="use_old_mobiletype_title">Small mobile type icon</string>
+    <string name="use_old_mobiletype_summary">Show mobile type icon on top of the signal indicator</string>
+
+     <!-- Rounded corners -->
+    <string name="corners_category_title">Rounded corners</string>
+    <string name="corners_category_summary">Adjust rounded corners and padding</string>
+    <string name="corners_title">Customize rounded corners</string>
+    <string name="corner_radius">Rounded corner radius</string>
+    <string name="content_padding">Corner content padding</string>
+    <string name="status_bar_padding">Statusbar extra padding</string>
+    <string name="corner_fwvals">Use framework values</string>
+    <string name="corner_fwvals_summary">Useful if the device actually has rounded corners</string>
+
+
 </resources>
 
 

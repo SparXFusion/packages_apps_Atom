@@ -25,5 +25,4 @@
         settings:controller="com.android.settings.gestures.SwipeToScreenshotGesturePreferenceController" />
 
 
-
 </PreferenceScreen>
