@@ -24,4 +24,6 @@
         android:fragment="com.android.settings.gestures.SwipeToScreenshotGestureSettings"
         settings:controller="com.android.settings.gestures.SwipeToScreenshotGesturePreferenceController" />
 
+
+
 </PreferenceScreen>
