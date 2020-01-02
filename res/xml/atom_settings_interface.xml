@@ -33,4 +33,11 @@
          android:summary="@string/pulse_ambient_light_summary"
          android:fragment="com.atom.settings.fragments.AmbientLight" />
 
+
+    <com.atom.settings.preferences.SystemSettingSwitchPreference
+            android:key="settings_spacer"
+            android:title="@string/enable_oneui"
+            android:summary="@string/enable_oneui_summary"
+            android:defaultValue="true" />
+
 </PreferenceScreen>
