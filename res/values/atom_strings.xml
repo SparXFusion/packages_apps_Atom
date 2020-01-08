@@ -19,8 +19,8 @@
     <string name="gestures_title">Gestures</string>
     <string name="lockscreen_title">Lock screen</string>
     <string name="statusbar_title">Status bar</string>
-    <string name="notifications_title">Notifications</string>
-    <string name="misc_title">AOKP Animations</string>
+    <string name="notifications_title">Atom Theme Picker</string>
+    <string name="misc_title">Misc</string>
 
     <!-- General strings -->
     <string name="ok">OK</string>
@@ -223,5 +223,7 @@
     <string name="themeroom_summary">Accent-Gradient theming</string>
     <string name="accent_color">Accent picker</string>
     <string name="accent_summary">System wide accent maker</string>
+    <string name="gradient_color">Gradient picker</string>
+    <string name="gradient_summary">Gradient effect maker</string>
 
 </resources>
