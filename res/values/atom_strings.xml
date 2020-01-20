@@ -304,9 +304,17 @@
     <string name="toast_icon_title">Toast app icon</string>
     <string name="toast_icon_summary">Display the app\'s icon corresponding with the toast</string>
 
-   <!-- QS background opacity -->
+    <!-- QS background opacity -->
     <string name="qs_theme_category">Style</string>
     <string name="qs_panel_alpha_title">Background opacity</string>
 
+    <!-- Screen Off animation -->
+    <string name="screen_off_animation_title">Screen off animation</string>
+    <string name="screen_off_animation_fade">Fade</string>
+    <string name="screen_off_animation_crt">CRT</string>
+    <string name="screen_off_animation_scale">Scale</string>
+
+
 </resources>
+
 

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ancient.settings.preferences;
+package com.atom.settings.preferences;
 
 import android.content.Context;
 import android.content.res.TypedArray;
