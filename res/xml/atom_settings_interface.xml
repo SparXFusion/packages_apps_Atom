@@ -88,6 +88,14 @@
         android:summary="@string/hide_smart_replies_summary"
         android:defaultValue="false"/>
 
+      <com.atom.settings.preferences.SystemSettingSwitchPreference
+            android:key="qs_datausage"
+            android:title="@string/qs_datausage_title"
+            android:summary="@string/qs_datausage_subtitle"
+            android:defaultValue="false" />
+
+
+
 
    <PreferenceCategory
      android:key="themes_category"
