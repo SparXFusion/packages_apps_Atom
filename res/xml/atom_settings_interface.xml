@@ -73,6 +73,16 @@
             android:summary="@string/blur_quicksettings_subtitle"
             android:defaultValue="true" />
     
+       <com.atom.settings.preferences.SystemSettingSeekBarPreference
+            android:key="qs_blur_alpha"
+            android:title="@string/qs_blur_alpha_title"
+            android:summary="@string/qs_blur_alpha_summary"
+            android:max="100"
+            settings:min="1"
+            android:defaultValue="100"
+            android:dependency="qs_blur" /
+
+
    <PreferenceCategory
      android:key="themes_category"
      android:title="@string/themes_hub_title">
@@ -84,7 +94,6 @@
          android:fragment="com.atom.settings.fragments.ThemesHub" />
 
    </PreferenceCategory>
-
 
  </PreferenceScreen>
 
