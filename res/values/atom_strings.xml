@@ -217,5 +217,11 @@
     <string name="battery_bar_gradient_color_summary">Use gradient color as a scale for the battery level</string>
     <string name="battery_bar_high_color">High level color"</string>
     <string name="battery_bar_low_color">Low level color"</string>
+   
+    <!-- Atom Accent -->
+    <string name="themeroom_title">RGB accenter</string>
+    <string name="themeroom_summary">Accent-Gradient theming</string>
+    <string name="accent_color">Accent picker</string>
+    <string name="accent_summary">System wide accent maker</string>
 
 </resources>
