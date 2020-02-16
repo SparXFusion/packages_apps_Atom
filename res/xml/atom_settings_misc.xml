@@ -68,5 +68,11 @@
             android:summary="%s"
             android:defaultValue="0"/>
 
+   <com.atom.settings.preferences.GlobalSettingSwitchPreference
+           android:key="privileged_device_identifier_check_relaxed"
+           android:title="@string/device_identifier_access_restrictions_title"
+           android:summary="@string/device_identifier_access_restrictions_summary"
+           android:defaultValue="false" />
+
 
 </PreferenceScreen>
