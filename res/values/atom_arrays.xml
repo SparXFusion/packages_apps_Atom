@@ -412,6 +412,7 @@
         <item>@string/fod_recog_animation_miui_rhythm</item>
         <item>@string/fod_recog_animation_op_cosmos</item>
         <item>@string/fod_recog_animation_op_mclaren</item>
+        <item>@string/fod_recog_animation_op_ripple</item>
         <item>@string/fod_recog_animation_op_stripe</item>
         <item>@string/fod_recog_animation_op_wave</item>
         <item>@string/fod_recog_animation_bluefirework</item>
@@ -434,6 +435,7 @@
         <item>11</item>
         <item>12</item>
         <item>13</item>
+        <item>14</item>
     </string-array>
 
     <!-- Lockscreen Charging Animation options -->
