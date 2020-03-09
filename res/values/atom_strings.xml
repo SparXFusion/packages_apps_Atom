@@ -404,6 +404,9 @@
     <string name="fod_recog_animation_coloros7_1">ColorOS7 1</string>
     <string name="fod_recog_animation_coloros7_2">ColorOS7 2</string>
 
+    <string name="qs_bg_use_new_tint">AtomUi qs tile colors</string>
+    <string name="qs_bg_use_new_tint_summary">Use accent color for qs tile icons and background</string>
+
 </resources>
 
 

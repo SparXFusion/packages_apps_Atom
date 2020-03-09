@@ -100,6 +100,12 @@
          android:summary="@string/themes_hub_summary"
          android:fragment="com.atom.settings.fragments.ThemesHub" />
 
+    <com.atom.settings.preferences.SystemSettingSwitchPreference
+            android:key="qs_panel_bg_use_new_tint"
+            android:title="@string/qs_bg_use_new_tint"
+            android:summary="@string/qs_bg_use_new_tint_summary"
+            android:defaultValue="true" />
+
    </PreferenceCategory>
 
      <Preference
@@ -107,6 +113,7 @@
             android:title="@string/corners_category_title"
             android:summary="@string/corners_category_summary"
             android:fragment="com.atom.settings.fragments.RoundedCornersSettings" />
+
 
  </PreferenceScreen>
 
