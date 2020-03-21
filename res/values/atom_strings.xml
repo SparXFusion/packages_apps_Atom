@@ -402,6 +402,10 @@
     <string name="atom_footer_text_string_title">Customize footer text</string>
     <string name="atom_footer_text_string_summary">Set to empty for default #StayAtomic</string>
 
+    <!-- Charging animation -->
+    <string name="lockscreen_charging_animation_title">Charging animation</string>
+    <string name="lockscreen_charging_animation_summary">Display animation when charging</string>
+
 </resources>
 
 
