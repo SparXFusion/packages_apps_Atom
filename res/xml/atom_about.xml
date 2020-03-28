@@ -10,7 +10,7 @@
 
         <Preference
             android:title="Naveen"
-            android:summary="@string/atom_developers_skulshady"
+            android:summary="@string/atom_developers_naveen"
             android:icon="@drawable/atom_developer">
             <intent
                 android:action="android.intent.action.VIEW"

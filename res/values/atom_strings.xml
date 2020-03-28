@@ -193,5 +193,6 @@
     <string name="atom_telegram_summary">Support group for Official builds</string>
     <string name="atom_source_title">Github</string>
     <string name="atom_source_summary">AtomCommunity source code</string>
+    <string name="atom_links">Links</string>
 
 </resources>
