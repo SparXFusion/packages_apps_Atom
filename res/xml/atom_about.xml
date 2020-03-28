@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
+    android:title="@string/about_title" >
+
+    <PreferenceCategory
+        android:key="developer_category"
+        android:title="@string/developers_category_title">
+
+        <Preference
+            android:title="Naveen"
+            android:summary="@string/atom_developers_skulshady"
+            android:icon="@drawable/atom_developer">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.paypal.me/"/>
+        </Preference>
+
+        <Preference
+            android:title="Rechie"
+            android:summary="@string/atom_developers_rechie"
+            android:icon="@drawable/atom_developer">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.paypal.me/"/>
+        </Preference>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="support_category" 
+        android:title="@string/support_category_title"> 
+
+        <Preference
+            android:title="Pratyakshm"
+            android:summary="@string/atom_support_pratyakshm"
+            android:icon="@drawable/atom_support"/>
+
+        <Preference
+            android:title=""
+            android:summary="@string/atom_support_summary"
+            android:icon="@drawable/atom_support"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="maintainer_category" 
+        android:title="@string/maintainers_category_title"> 
+
+        <Preference
+            android:key="maintainers"
+            android:fragment="com.atom.settings.fragments.DeviceMaintainers"
+            android:summary="@string/device_maintainers_title_summary"
+            android:title="@string/device_maintainers_title"
+            android:icon="@drawable/atom_maintainer" />
+    </PreferenceCategory>
+		
+    <PreferenceCategory
+        android:key="links"
+        android:title="@string/atom_links">
+
+       <!--<Preference
+            android:key="atom_announcements"
+            android:title="@string/atom_announcements_title"
+            android:summary="@string/atom_announcements_summary"
+            android:icon="@drawable/atom_announcements">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/"/>
+        </Preference>-->
+
+        <Preference
+            android:key="atom_telegram"
+            android:title="@string/atom_telegram_title"
+            android:summary="@string/atom_telegram_summary"
+            android:icon="@drawable/atom_telegram">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/atomosofficial"/>
+        </Preference>
+
+        <!--<Preference
+            android:key="atom_discord"
+            android:title="@string/atom_discord_title"
+            android:summary="@string/atom_discord_summary"
+            android:icon="@drawable/atom_discord">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://"/>
+        </Preference>-->
+
+       <!--<Preference
+            android:key="atom_donate"
+            android:title="@string/atom_donate"
+            android:summary="@string/atom_donate_summary"
+            android:icon="@drawable/atom_donate">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.paypal.me/"/>
+        </Preference>-->
+
+        <!--<Preference
+            android:key="changelog"
+            android:title="@string/changelog_title"
+            android:summary="@string/changelog_title_summary"
+            android:icon="@drawable/atom_changelog"
+            android:fragment="com.android.settings.atom.Changelog">
+        </Preference>-->
+
+        <!--Preference
+            android:key="atom_website"
+            android:title="@string/website_title"
+            android:summary="@string/website_title_summary"
+            android:icon="@drawable/atom_website">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https:///"/>
+        </Preference>-->
+
+        <Preference
+            android:key="atom_source"
+            android:title="@string/atom_source_title"
+            android:summary="@string/atom_source_summary"
+            android:icon="@drawable/atom_github">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://github.com/AtomOrganization"/>
+        </Preference>
+    </PreferenceCategory>
+</PreferenceScreen>

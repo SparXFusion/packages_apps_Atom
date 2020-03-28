@@ -15,6 +15,7 @@
     <string name="atom_settings_title">Atom Settings</string>
 
     <!-- Categories -->
+    <string name="about_title">About US</string>
     <string name="gestures_title">Gestures</string>
     <string name="lockscreen_title">Lock screen</string>
     <string name="statusbar_title">Status bar</string>
@@ -177,5 +178,20 @@
     <string name="title_animation_no_override">Prevent app overrides</string>
     <string name="summary_animation_no_override">Prevent apps from overriding transitions</string>
     <string name="animation_duration_default">Default</string>
+
+   <!-- About -->
+    <string name="developers_category_title">Developers</string>
+    <string name="support_category_title">Support Team</string>
+    <string name="maintainers_category_title">Maintainers</string>
+    <string name="atom_developers_naveen" translatable="false">• Founder \n• Core Developer \n• Maintainer</string>
+    <string name="atom_developers_rechie" translatable="false">• UI/UX Designer\n• Core Developer\n• Maintainer</string>
+    <string name="atom_support_pratyakshm" translatable="false">• Support Group Moderator</string>
+    <string name="atom_support_summary" translatable="false">• Support Group Moderator</string>
+    <string name="device_maintainers_title">Official Devices</string>
+    <string name="device_maintainers_title_summary">List of official devices and their maintainers</string>
+    <string name="atom_telegram_title">Telegram</string>
+    <string name="atom_telegram_summary">Support group for Official builds</string>
+    <string name="atom_source_title">Github</string>
+    <string name="atom_source_summary">AtomCommunity source code</string>
 
 </resources>
