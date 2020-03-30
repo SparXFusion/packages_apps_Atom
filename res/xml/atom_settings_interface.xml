@@ -15,4 +15,22 @@
     android:title="@string/interface_title"
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
 
+   <Preference
+         android:key="batterybar_settings"
+         android:title="@string/battery_bar_title"
+         android:summary="@string/battery_bar_summary"
+         android:fragment="com.atom.settings.fragments.BatterybarSettings" />
+
+   <Preference
+         android:key="theme_room"
+         android:title="@string/themeroom_title"
+         android:summary="@string/themeroom_summary"
+         android:fragment="com.atom.settings.fragments.ThemeRoom" />
+
+   <Preference
+         android:key="ambient_light_settings"
+         android:title="@string/ambient_light_settings_title"
+         android:summary="@string/pulse_ambient_light_summary"
+         android:fragment="com.atom.settings.fragments.AmbientLight" />
+
 </PreferenceScreen>
