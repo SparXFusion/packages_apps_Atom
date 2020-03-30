@@ -19,8 +19,9 @@
     <string name="gestures_title">Gestures</string>
     <string name="lockscreen_title">Lock screen</string>
     <string name="statusbar_title">Status bar</string>
-    <string name="notifications_title">Atom Theme Picker</string>
+    <string name="notifications_title">Notifications</string>
     <string name="misc_title">Misc</string>
+    <string name="interface_title">Themes</string>
 
     <!-- General strings -->
     <string name="ok">OK</string>
