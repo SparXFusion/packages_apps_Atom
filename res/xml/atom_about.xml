@@ -9,21 +9,21 @@
         android:title="@string/developers_category_title">
 
         <Preference
-            android:title="Naveen"
+            android:title="NaveenAchari"
             android:summary="@string/atom_developers_naveen"
             android:icon="@drawable/atom_developer">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://www.paypal.me/"/>
+                android:data="https://github.com/thephotogenicbug"/>
         </Preference>
 
         <Preference
-            android:title="Rechie"
+            android:title="RichieFlicker"
             android:summary="@string/atom_developers_rechie"
             android:icon="@drawable/atom_developer">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://www.paypal.me/"/>
+                android:data="https://github.com/richieflicker"/>
         </Preference>
 
     </PreferenceCategory>
