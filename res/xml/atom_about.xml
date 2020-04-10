@@ -38,7 +38,7 @@
             android:icon="@drawable/atom_support"/>
 
         <Preference
-            android:title=""
+            android:title="Rahuludaru"
             android:summary="@string/atom_support_summary"
             android:icon="@drawable/atom_support"/>
 
