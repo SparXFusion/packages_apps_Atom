@@ -406,6 +406,9 @@
     <string name="fod_recog_animation_op_stripe">Stripe</string>
     <string name="fod_recog_animation_op_wave">Wave</string>
     <string name="fod_recog_animation_bluefirework">Blue Fireworks</string>   
+    <string name="fod_recog_animation_coloros7_1">ColorOS7 1</string>
+    <string name="fod_recog_animation_coloros7_2">ColorOS7 2</string>
+
 </resources>
 
 
