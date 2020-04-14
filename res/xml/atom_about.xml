@@ -33,7 +33,7 @@
         android:title="@string/support_category_title"> 
 
         <Preference
-            android:title="Pratyakshm"
+            android:title="PratyakshM"
             android:summary="@string/atom_support_pratyakshm"
             android:icon="@drawable/atom_support"/>
 
