@@ -34,12 +34,6 @@
          android:fragment="com.atom.settings.fragments.AmbientLight" />
 
 
-    <com.atom.settings.preferences.SystemSettingSwitchPreference
-            android:key="settings_spacer"
-            android:title="@string/enable_oneui"
-            android:summary="@string/enable_oneui_summary"
-            android:defaultValue="true" />
-
     <Preference 
           android:key="lockscreen_style" 
           android:title="@string/lockscreen_style_title"
@@ -95,13 +89,11 @@
             android:defaultValue="false" />
 
 
-
-
    <PreferenceCategory
-     android:key="themes_category"
-     android:title="@string/themes_hub_title">
+         android:key="themes_category"
+         android:title="@string/themes_hub_title">
 
-     <Preference
+   <Preference
          android:key="theme_hub"
          android:title="@string/themes_hub_title"
          android:summary="@string/themes_hub_summary"

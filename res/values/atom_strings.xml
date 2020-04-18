@@ -224,9 +224,6 @@
     <string name="accent_color">Accent picker</string>
     <string name="accent_summary">System wide accent maker</string>
 
-    <!-- Setting OneUI -->
-    <string name="enable_oneui">OneUI</string>
-    <string name="enable_oneui_summary">Show spacer above settings actionbar for easier use with one hand\nNOTE: restart settings app to see effect</string>
 
    <string name="lockscreen_style_title">Lockscreen Style</string>
    <string name="lockscreen_style_summary">Customize the lockscreen Style</string>
