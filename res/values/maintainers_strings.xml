@@ -18,14 +18,18 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- Device Categories -->
-    <string name="device_category_motorola_title" translatable="false">Motorola</string>
+    <!-- Device Categories --> 
     <string name="device_category_xiaomi_title" translatable="false">Xiaomi</string>
+    <string name="device_category_asus_title" translatable="false">Asus</string>
+
 
     <!-- Devices & Maintainers -->
     <string name="device_tulip" translatable="false">Xiaomi Redmi Note 6 Pro</string> 
     <string name="device_tulip_summary" translatable="false">tulip\n</string>
 
-    <string name="device_tulip" translatable="false">Xiaomi Redmi 5</string> 
-    <string name="device_tulip_summary" translatable="false">rosy\n</string>
+    <string name="device_rosy" translatable="false">Xiaomi Redmi 5</string> 
+    <string name="device_rosy_summary" translatable="false">rosy\n</string>
+    
+    <string name="device_X00T" translatable="false">ZenFone Max Pro M1</string> 
+    <string name="device_X00T_summary" translatable="false">X00T\n</string>
 </resources>

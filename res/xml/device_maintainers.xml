@@ -36,4 +36,20 @@
 
     </PreferenceCategory>
 
+        <PreferenceCategory
+        android:id="@+id/device_category_asus"
+        android:title="@string/device_category_asus_title" >
+
+        <Preference 
+            android:id="@+id/device_X00T" 
+            android:icon="@drawable/atom_device" 
+            android:summary="@string/device_X00T_summary" 
+            android:title="@string/device_X00T" > 
+            <intent
+                android:action="android.intent.action.VIEW" 
+                android:data="https://github.com/prabhat774" />
+        </Preference>
+
+    </PreferenceCategory>
+
 </PreferenceScreen>
