@@ -20,4 +20,20 @@
 
     </PreferenceCategory>
     
+   <PreferenceCategory
+        android:id="@+id/device_category_xiaomi"
+        android:title="@string/device_category_xiaomi_title" >
+
+        <Preference 
+            android:id="@+id/device_rosy" 
+            android:icon="@drawable/atom_device" 
+            android:summary="@string/device_rosy_summary" 
+            android:title="@string/device_rosy" > 
+            <intent
+                android:action="android.intent.action.VIEW" 
+                android:data="https://github.com/PratyakshM" />
+        </Preference>
+
+    </PreferenceCategory>
+
 </PreferenceScreen>

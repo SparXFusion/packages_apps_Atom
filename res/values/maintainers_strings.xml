@@ -23,30 +23,9 @@
     <string name="device_category_xiaomi_title" translatable="false">Xiaomi</string>
 
     <!-- Devices & Maintainers -->
-    <string name="device_lavender" translatable="false">Xiaomi Redmi Note 7</string>
-    <string name="device_lavender_summary" translatable="false">lavender\n</string>
-
-    <string name="device_violet" translatable="false">Xiaomi Redmi Note 7 Pro</string>
-    <string name="device_violet_summary" translatable="false">violet\n</string>
-
-    <string name="device_whyred" translatable="false">Xiaomi Redmi Note 5 Pro</string>
-    <string name="device_whyred_summary" translatable="false">whyred\n</string>
-
-    <string name="device_beryllium" translatable="false">Xiaomi Poco F1</string>
-    <string name="device_beryllium_summary" translatable="false">beryllium\n</string>
-
-    <string name="device_wayne" translatable="false">Xiaomi Mi 6X</string>
-    <string name="device_wayne_summary" translatable="false">wayne\n</string>
-
-    <string name="device_potter" translatable="false">Moto G5 Plus</string>
-    <string name="device_potter_summary" translatable="false">potter\n</string>
-
-    <string name="device_laurel_sprout" translatable="false">Xiaomi Mi A3</string>
-    <string name="device_laurel_sprout_summary" translatable="false">laurel_sprout\n</string>
- 
-    <string name="device_dipper" translatable="false">Xiaomi Mi 8</string>
-    <string name="device_dipper_summary" translatable="false">dipper\n</string>
-
     <string name="device_tulip" translatable="false">Xiaomi Redmi Note 6 Pro</string> 
     <string name="device_tulip_summary" translatable="false">tulip\n</string>
+
+    <string name="device_tulip" translatable="false">Xiaomi Redmi 5</string> 
+    <string name="device_tulip_summary" translatable="false">rosy\n</string>
 </resources>
