@@ -315,8 +315,6 @@
     <string name="qs_blur_alpha_title">Blur alpha</string>
     <string name="qs_blur_alpha_summary">Sets the blur transparency</string>
 
-<<<<<<< HEAD
-
     <!-- RGB Accenter -->
     <string name="theme_rgb_title">RGB Accent</string>
     <string name="themes_hub_title">Themes Hub</string>
@@ -347,7 +345,11 @@
     <string name="swap_volume_buttons_title">Reorient</string>
     <string name="swap_volume_buttons_summary">Swap volume buttons when the screen is rotated</string>
 
+    <!-- Data disabled icon -->
+    <string name="data_disabled_icon_title">Show data disabled icon</string>
+    <string name="data_disabled_icon_summary">Display the cross sign next to signal bar when data is disabled</string>
 
+   
 </resources>
 
 
