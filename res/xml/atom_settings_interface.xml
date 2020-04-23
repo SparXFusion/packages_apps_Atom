@@ -21,11 +21,6 @@
          android:summary="@string/battery_bar_summary"
          android:fragment="com.atom.settings.fragments.BatterybarSettings" />
 
-   <Preference
-         android:key="theme_room"
-         android:title="@string/themeroom_title"
-         android:summary="@string/themeroom_summary"
-         android:fragment="com.atom.settings.fragments.ThemeRoom" />
 
    <Preference
          android:key="ambient_light_settings"
