@@ -167,7 +167,7 @@
     <string name="atom_developers_naveen" translatable="false">• Founder \n• Core Developer \n• Maintainer</string>
     <string name="atom_developers_rechie" translatable="false">• UI/UX Designer\n• Core Developer\n• Maintainer</string>
     <string name="atom_support_pratyakshm" translatable="false">• Rosy Maintainer \n• Group Moderator</string>
-    <string name="atom_support_summary" translatable="false">• Group Moderator</string>
+    <string name="atom_support_summary" translatable="false">•Device Group Moderator \n• Designer</string>
     <string name="device_maintainers_title">Official Devices</string>
     <string name="device_maintainers_title_summary">List of official devices and their maintainers</string>
     <string name="atom_telegram_title">Telegram</string>
