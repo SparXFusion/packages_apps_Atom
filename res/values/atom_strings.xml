@@ -301,12 +301,6 @@
     <string name="allow_signature_fake">Allow signature spoofing</string>
     <string name="allow_signature_fake_summary">Allow apps to bypass security systems by pretending to be a different app.</string>
 
-    <!-- Smart charging -->
-    <string name="smart_charging_title">Smart Charging</string>
-    <string name="smart_charging_summary">Set maximum charging level</string>
-    <string name="smart_charging_switch_title">Use Smart charging</string>
-    <string name="smart_charging_level_title">Trigger level</string>
-    <string name="smart_charging_footer">Smart Charging allows you to set maximum charging level to extend the lifespan of your battery</string>
 
     <!-- Volume swap buttons -->
     <string name="swap_volume_buttons_title">Reorient</string>

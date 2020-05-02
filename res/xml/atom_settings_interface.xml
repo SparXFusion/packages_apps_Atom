@@ -83,12 +83,6 @@
             android:summary="@string/qs_datausage_subtitle"
             android:defaultValue="false" />
 
-      <Preference
-           android:fragment="com.atom.settings.fragments.SmartChargingSettings"
-           android:key="smart_charging_key"
-           android:title="@string/smart_charging_title"
-           android:summary="@string/smart_charging_summary" />
-
 
    <PreferenceCategory
          android:key="themes_category"
