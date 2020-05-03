@@ -18,7 +18,8 @@
     android:key="statusbar_settings"
     android:title="@string/statusbar_title"
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
-    android:fragment="com.android.settings.custom.statusbar.StatusBarSettings" />
+
+
      <PreferenceScreen
         android:fragment="com.android.settings.custom.statusbar.NetworkTrafficSettings"
         android:key="network_traffic_settings"
