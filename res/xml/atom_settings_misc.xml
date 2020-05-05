@@ -74,5 +74,12 @@
            android:summary="@string/device_identifier_access_restrictions_summary"
            android:defaultValue="false" />
 
+   <com.atom.settings.preferences.GlobalSettingListPreference
+        android:key="ringtone_focus_mode"
+        android:title="@string/ringtone_focus_mode_title"
+        android:entries="@array/ringtone_focus_mode_entries"
+        android:entryValues="@array/ringtone_focus_mode_values"
+        android:defaultValue="1" /> 
+
 
 </PreferenceScreen>
