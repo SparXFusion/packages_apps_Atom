@@ -38,35 +38,35 @@
     <string name="color_default">По умолчанию</string>
     <!-- Ambient edge lighting -->
     <string name="ambient_light_settings_title">Ambient light</string>
-    <string name="pulse_ambient_light_title">Edge lighting</string>
-    <string name="pulse_ambient_light_summary">Light up the side edges of the screen on notification pulse</string>
-    <string name="pulse_ambient_light_color_title">Edge light color</string>
+    <string name="pulse_ambient_light_title">Боковые уведомления</string>
+    <string name="pulse_ambient_light_summary">Подсветка пульсом боковых краев экрана при уведомлениях</string>
+    <string name="pulse_ambient_light_color_title">Цвет боковой подсветки</string>
     <!-- Three-fingers-swipe to screenshot -->
     <string name="three_finger_gesture">Проведите для скриншота</string>
     <string name="three_finger_gesture_summary">Смахните вниз тремя пальцами для скриншота</string>
     <!-- Lock screen cover art -->
-    <string name="lockscreen_media_art_title">Display media cover art</string>
+    <string name="lockscreen_media_art_title">Показать медиаобложку</string>
     <!-- Status bar -->
-    <string name="status_bar_title">Status bar</string>
-    <string name="status_bar_quick_qs_pulldown_title">Quick pulldown</string>
+    <string name="status_bar_title">Статус бар</string>
+    <string name="status_bar_quick_qs_pulldown_title">Быстрое раскрытие </string>
     <string name="status_bar_quick_qs_pulldown_summary">%1$s edge of the status bar pulls down Quick Settings</string>
-    <string name="status_bar_quick_qs_pulldown_summary_left">Left</string>
-    <string name="status_bar_quick_qs_pulldown_summary_right">Right</string>
-    <string name="status_bar_quick_qs_pulldown_off">Off</string>
-    <string name="status_bar_quick_qs_pulldown_left">Left</string>
-    <string name="status_bar_quick_qs_pulldown_right">Right</string>
+    <string name="status_bar_quick_qs_pulldown_summary_left">Влево</string>
+    <string name="status_bar_quick_qs_pulldown_summary_right">Вправо</string>
+    <string name="status_bar_quick_qs_pulldown_off">Выключено</string>
+    <string name="status_bar_quick_qs_pulldown_left">Влево</string>
+    <string name="status_bar_quick_qs_pulldown_right">Вправо</string>
     <!-- Status bar - icons -->
-    <string name="status_bar_icons_title">Status bar icons</string>
-    <string name="status_bar_system_icons_title">System icons</string>
-    <string name="status_bar_system_icons_summary">Control which status bar icons are shown</string>
+    <string name="status_bar_icons_title">Иконка статус бара</string>
+    <string name="status_bar_system_icons_title">Системные иконки</string>
+    <string name="status_bar_system_icons_summary">Управление отображением значков строки состояния</string>
     <!-- Status bar - Clock -->
-    <string name="status_bar_clock_title">Clock</string>
-    <string name="status_bar_clock_show_seconds_title">Show seconds</string>
-    <string name="status_bar_clock_show_seconds_summary">Show hours, minutes, and seconds</string>
-    <string name="status_bar_clock_position_title">Clock position</string>
-    <string name="status_bar_clock_position_right">Right</string>
-    <string name="status_bar_clock_position_left">Left</string>
-    <string name="status_bar_clock_position_center">Center</string>
+    <string name="status_bar_clock_title">Часы</string>
+    <string name="status_bar_clock_show_seconds_title">Показать секунды</string>
+    <string name="status_bar_clock_show_seconds_summary">Показать часы, минуты, и секунды</string>
+    <string name="status_bar_clock_position_title">Позиция часов</string>
+    <string name="status_bar_clock_position_right">Вправо</string>
+    <string name="status_bar_clock_position_left">Влево</string>
+    <string name="status_bar_clock_position_center">По центру</string>
     <string name="status_bar_am_pm_title">AM/PM style</string>
     <string name="status_bar_am_pm_info">24-hour clock is enabled</string>
     <string name="status_bar_am_pm_normal">Normal</string>
