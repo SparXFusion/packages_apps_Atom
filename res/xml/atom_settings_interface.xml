@@ -29,60 +29,12 @@
          android:fragment="com.atom.settings.fragments.AmbientLight" />
 
 
-    <Preference 
-          android:key="lockscreen_style" 
-          android:title="@string/lockscreen_style_title"
-          android:summary="@string/lockscreen_style_summary"   
-          android:fragment="com.atom.settings.fragments.LockscreenStyle" />
-
     <com.atom.settings.preferences.SystemSettingSwitchPreference
         android:key="toast_icon"
         android:title="@string/toast_icon_title"
         android:summary="@string/toast_icon_summary"
         android:defaultValue="false" />
-
    
-    <PreferenceCategory
-        android:key="qs_theme_category"
-        android:title="@string/qs_theme_category">
-
-        <com.atom.settings.preferences.SystemSettingSeekBarPreference
-            android:key="qs_panel_bg_alpha"
-            android:title="@string/qs_panel_alpha_title"
-            android:max="255"
-            settings:min="100"
-            settings:interval="5"
-            android:defaultValue="255" />
-
-    </PreferenceCategory>
-
-        <com.atom.settings.preferences.SystemSettingSwitchPreference
-            android:key="qs_blur"
-            android:title="@string/blur_quicksettings"
-            android:summary="@string/blur_quicksettings_subtitle"
-            android:defaultValue="true" />
-    
-       <com.atom.settings.preferences.SystemSettingSeekBarPreference
-            android:key="qs_blur_alpha"
-            android:title="@string/qs_blur_alpha_title"
-            android:summary="@string/qs_blur_alpha_summary"
-            android:max="100"
-            settings:min="1"
-            android:defaultValue="100"
-            android:dependency="qs_blur" />
-
-      <com.atom.settings.preferences.SystemSettingSwitchPreference
-        android:key="hide_smart_replies"
-        android:title="@string/hide_smart_replies_title"
-        android:summary="@string/hide_smart_replies_summary"
-        android:defaultValue="false"/>
-
-      <com.atom.settings.preferences.SystemSettingSwitchPreference
-            android:key="qs_datausage"
-            android:title="@string/qs_datausage_title"
-            android:summary="@string/qs_datausage_subtitle"
-            android:defaultValue="false" />
-
 
    <PreferenceCategory
          android:key="themes_category"
@@ -93,37 +45,7 @@
          android:title="@string/themes_hub_title"
          android:summary="@string/themes_hub_summary"
          android:fragment="com.atom.settings.fragments.ThemesHub" />
-
-    <com.atom.settings.preferences.SystemSettingSwitchPreference
-            android:key="qs_panel_bg_use_new_tint"
-            android:title="@string/qs_bg_use_new_tint"
-            android:summary="@string/qs_bg_use_new_tint_summary"
-            android:defaultValue="true" />
-
    </PreferenceCategory>
-
-     <Preference
-            android:key="rounded_corners" 
-            android:title="@string/corners_category_title"
-            android:summary="@string/corners_category_summary"
-            android:fragment="com.atom.settings.fragments.RoundedCornersSettings" />
-
-    
-    <Preference
-        android:key="footer_text"
-        android:fragment="com.atom.settings.fragments.FooterText"
-        android:title="@string/footer_text_title" />
-
-    <Preference
-        android:key="statusbar_header"
-        android:fragment="com.atom.settings.fragments.StatusBarHeader"
-        android:title="@string/statusbar_header_title" />
-
-   <com.atom.settings.preferences.SystemSettingSwitchPreference
-        android:key="notification_headers"
-        android:title="@string/notification_headers_title"
-        android:summary="@string/notification_headers_summary"
-        android:defaultValue="true" />
 
 
  </PreferenceScreen>

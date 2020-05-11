@@ -14,6 +14,19 @@
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
     android:title="@string/atom_settings_title" >
 
+       <!-- Quick Settings panel -->
+        <Preference
+            android:key="quicksettings_category"
+            android:title="@string/quicksettings_title"
+            android:fragment="com.atom.settings.fragments.QuickSettings"
+            android:icon="@drawable/ic_settings_quicksettings"/>
+
+       <!-- Status Bar -->
+        <Preference
+            android:key="statusbar_category"
+            android:title="@string/statusbar_title"
+            android:fragment="com.atom.settings.fragments.StatusBarSettings" 
+            android:icon="@drawable/ic_settings_statusbar"/>
 
         <!-- Interface -->
         <Preference
@@ -22,26 +35,13 @@
             android:fragment="com.atom.settings.fragments.Interface"
             android:icon="@drawable/ic_settings_interface"/>
 
-        <!-- Status Bar -->
-        <Preference
-            android:key="statusbar_category"
-            android:title="@string/statusbar_title"
-            android:fragment="com.atom.settings.fragments.StatusBarSettings" 
-            android:icon="@drawable/ic_settings_statusbar"/>
-
-        <!-- Quick Settings panel -->
-        <!--Preference
-            android:key="quicksettings_category"
-            android:title="@string/quicksettings_title"
-            android:fragment="com.atom.settings.fragments.QuickSettings"
-            android:icon="@drawable/ic_settings_quicksettings"/-->
 
         <!-- Buttons -->
-        <!--Preference
+        <Preference
             android:key="buttonsettings_category"
             android:title="@string/button_title"
             android:fragment="com.atom.settings.fragments.ButtonSettings"
-            android:icon="@drawable/ic_settings_buttons"/-->
+            android:icon="@drawable/ic_settings_buttons"/>
 
         <!-- Navigation Bar -->
         <!--Preference

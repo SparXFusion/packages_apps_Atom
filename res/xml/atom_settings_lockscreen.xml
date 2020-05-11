@@ -138,6 +138,14 @@
 
    </PreferenceCategory>
 
+
+   <Preference 
+          android:key="lockscreen_style" 
+          android:title="@string/lockscreen_style_title"
+          android:summary="@string/lockscreen_style_summary"   
+          android:fragment="com.atom.settings.fragments.LockscreenStyle" />
+
+
     <!-- Lockscreen Date Styles-->
     <PreferenceCategory
         android:key="lockscreen_date"
@@ -150,6 +158,7 @@
         android:entries="@array/lockscreen_date_selection_entries"
         android:entryValues="@array/lockscreen_date_selection_values"
         android:defaultValue="0" />
+
    </PreferenceCategory>
 
 </PreferenceScreen>
