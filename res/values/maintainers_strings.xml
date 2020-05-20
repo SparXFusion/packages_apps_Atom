@@ -19,17 +19,47 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Device Categories --> 
+	<string name="device_category_asus_title" translatable="false">Asus</string>
+	<string name="device_category_motorola_title" translatable="false">Motorola</string>
     <string name="device_category_xiaomi_title" translatable="false">Xiaomi</string>
-    <string name="device_category_asus_title" translatable="false">Asus</string>
+	<string name="device_category_zuk_title" translatable="false">ZUK</string>
+    
 
 
     <!-- Devices & Maintainers -->
+	<string name="device_X00P" translatable="false">ASUS ZenFone Max M1</string> 
+    <string name="device_X00P_summary" translatable="false">X00P\n</string>
+	
+	<string name="device_cedric" translatable="false">Motorola Moto G5</string> 
+    <string name="device_cedric_summary" translatable="false">cedric\n</string>
+	
     <string name="device_tulip" translatable="false">Xiaomi Redmi Note 6 Pro</string> 
     <string name="device_tulip_summary" translatable="false">tulip\n</string>
 
     <string name="device_rosy" translatable="false">Xiaomi Redmi 5</string> 
     <string name="device_rosy_summary" translatable="false">rosy\n</string>
     
-    <string name="device_X00T" translatable="false">ZenFone Max Pro M1</string> 
-    <string name="device_X00T_summary" translatable="false">X00T\n</string>
+    <string name="device_daisy" translatable="false">Xiaomi Mi A2 Lite</string> 
+    <string name="device_daisy_summary" translatable="false">daisy\n</string>
+	
+	<string name="device_ginkgo" translatable="false">Xiaomi Redmi Note 8 (without NFC)</string> 
+    <string name="device_ginkgo_summary" translatable="false">ginkgo\n</string>
+	
+	<string name="device_mido" translatable="false">Xiaomi Redmi Note 4X</string> 
+    <string name="device_mido_summary" translatable="false">mido\n</string>
+	
+	<string name="device_violet" translatable="false">Xiaomi Mi 9</string> 
+    <string name="device_violet_summary" translatable="false">violet\n</string>
+	
+	<string name="device_whyred" translatable="false">Xiaomi Redmi Note 5 Pro/AI</string> 
+    <string name="device_whyred_summary" translatable="false">whyred\n</string>
+	
+	<string name="device_onclite" translatable="false">Xiaomi Redmi 7</string> 
+    <string name="device_onclite_summary" translatable="false">onclite\n</string>
+	
+	<string name="device_z2_plus" translatable="false">ZUK Z2 Plus</string> 
+    <string name="device_z2_plus_summary" translatable="false">z2_plus\n</string>
+	
+	
+    
 </resources>
