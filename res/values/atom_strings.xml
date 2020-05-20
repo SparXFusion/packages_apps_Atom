@@ -312,7 +312,7 @@
     <!-- RGB Accenter -->
     <string name="theme_rgb_title">RGB Accent | Gradient Theming</string>
     <string name="themes_hub_title">Themes Hub</string>
-    <string name="themes_hub_summary">Atom-Accents & AtomColor-Bucket</string>
+    <string name="themes_hub_summary">Atom-Accents and AtomColor-Bucket</string>
     <string name="accent_color">Accent picker</string>
     <string name="accent_summary">Accent maker</string>
     <string name="gradient_color">Accent picker</string>
