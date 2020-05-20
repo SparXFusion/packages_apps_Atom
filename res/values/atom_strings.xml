@@ -16,7 +16,6 @@
 
     <!-- Categories -->
     <string name="about_title">About Atom</string>
-    <string name="gestures_title">Gestures</string>
     <string name="lockscreen_title">Lock screen</string>
     <string name="statusbar_title">Status bar</string>
     <string name="misc_title">Misc</string>
@@ -47,10 +46,6 @@
     <string name="pulse_ambient_light_title">Edge lighting</string>
     <string name="pulse_ambient_light_summary">Light up the side edges of the screen on notification pulse</string>
     <string name="pulse_ambient_light_color_title">Edge light color</string>
-
-    <!-- Three-fingers-swipe to screenshot -->
-    <string name="three_finger_gesture">Swipe to screenshot</string>
-    <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
 
     <!-- Lock screen cover art -->
     <string name="lockscreen_media_art_title">Display media cover art</string>
