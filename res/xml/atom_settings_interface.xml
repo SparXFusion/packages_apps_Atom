@@ -45,6 +45,11 @@
          android:title="@string/themes_hub_title"
          android:summary="@string/themes_hub_summary"
          android:fragment="com.atom.settings.fragments.ThemesHub" />
+  
+   <ListPreference
+        android:key="android.theme.customization.custom_overlays"
+        android:title="@string/theme_customization_systemui_title"/>
+
    </PreferenceCategory>
 
 
