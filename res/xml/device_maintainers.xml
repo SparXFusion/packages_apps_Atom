@@ -18,12 +18,6 @@
                 android:data="https://github.com/niteshkumar2000" />
         </Preference>
 
-    </PreferenceCategory>
-    
-   <PreferenceCategory
-        android:id="@+id/device_category_xiaomi"
-        android:title="@string/device_category_xiaomi_title" >
-
         <Preference 
             android:id="@+id/device_rosy" 
             android:icon="@drawable/atom_device" 
@@ -32,6 +26,16 @@
             <intent
                 android:action="android.intent.action.VIEW" 
                 android:data="https://github.com/PratyakshM" />
+        </Preference>
+        
+        <Preference 
+            android:id="@+id/device_daisy" 
+            android:icon="@drawable/atom_device" 
+            android:summary="@string/device_daisy_summary" 
+            android:title="@string/device_daisy" > 
+            <intent
+                android:action="android.intent.action.VIEW" 
+                android:data="https://github.com/scarymen1325" />
         </Preference>
 
     </PreferenceCategory>

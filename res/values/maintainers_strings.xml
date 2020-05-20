@@ -30,6 +30,9 @@
     <string name="device_rosy" translatable="false">Xiaomi Redmi 5</string> 
     <string name="device_rosy_summary" translatable="false">rosy\n</string>
     
+    <string name="device_daisy" translatable="false">Xiaomi Mi A2 Lite</string> 
+    <string name="device_daisy_summary" translatable="false">daisy\n</string>
+    
     <string name="device_X00T" translatable="false">ZenFone Max Pro M1</string> 
     <string name="device_X00T_summary" translatable="false">X00T\n</string>
 </resources>
