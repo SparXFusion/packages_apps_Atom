@@ -3,7 +3,39 @@
     xmlns:android="http://schemas.android.com/apk/res/android" 
     xmlns:settings="http://schemas.android.com/apk/res/com.atom.settings" 
     android:title="@string/device_maintainers_title">
-    
+
+    <PreferenceCategory
+        android:id="@+id/device_category_asus"
+        android:title="@string/device_category_asus_title" >
+
+        <Preference 
+            android:id="@+id/device_X00P" 
+            android:icon="@drawable/atom_device" 
+            android:summary="@string/device_X00P_summary" 
+            android:title="@string/device_X00P" > 
+            <intent
+                android:action="android.intent.action.VIEW" 
+                android:data="https://github.com/iamsaalim" />
+        </Preference>
+
+    </PreferenceCategory>
+	
+	<PreferenceCategory
+        android:id="@+id/device_category_motorola"
+        android:title="@string/device_category_motorola_title" >
+
+        <Preference 
+            android:id="@+id/device_cedric" 
+            android:icon="@drawable/atom_device" 
+            android:summary="@string/device_cedric_summary" 
+            android:title="@string/device_cedric" > 
+            <intent
+                android:action="android.intent.action.VIEW" 
+                android:data="https://github.com/kiam001" />
+        </Preference>
+
+    </PreferenceCategory>
+		
     <PreferenceCategory
         android:id="@+id/device_category_xiaomi"
         android:title="@string/device_category_xiaomi_title" >
@@ -37,21 +69,72 @@
                 android:action="android.intent.action.VIEW" 
                 android:data="https://github.com/scarymen1325" />
         </Preference>
-
-    </PreferenceCategory>
-
-        <PreferenceCategory
-        android:id="@+id/device_category_asus"
-        android:title="@string/device_category_asus_title" >
-
-        <Preference 
-            android:id="@+id/device_X00T" 
+		
+		<Preference 
+            android:id="@+id/device_ginkgo" 
             android:icon="@drawable/atom_device" 
-            android:summary="@string/device_X00T_summary" 
-            android:title="@string/device_X00T" > 
+            android:summary="@string/device_ginkgo_summary" 
+            android:title="@string/device_ginkgo" > 
             <intent
                 android:action="android.intent.action.VIEW" 
-                android:data="https://github.com/prabhat774" />
+                android:data="https://github.com/Billaids" />
+        </Preference>
+		
+		<Preference 
+            android:id="@+id/device_mido" 
+            android:icon="@drawable/atom_device" 
+            android:summary="@string/device_mido_summary" 
+            android:title="@string/device_mido" > 
+            <intent
+                android:action="android.intent.action.VIEW" 
+                android:data="https://github.com/ugly-kid-af" />
+        </Preference>
+		
+		<Preference 
+            android:id="@+id/device_violet" 
+            android:icon="@drawable/atom_device" 
+            android:summary="@string/device_violet_summary" 
+            android:title="@string/device_violet" > 
+            <intent
+                android:action="android.intent.action.VIEW" 
+                android:data="https://github.com/princejb786" />
+        </Preference>
+		
+		<Preference 
+            android:id="@+id/device_whyred" 
+            android:icon="@drawable/atom_device" 
+            android:summary="@string/device_whyred_summary" 
+            android:title="@string/device_whyred" > 
+            <intent
+                android:action="android.intent.action.VIEW" 
+                android:data="https://github.com/james2811" />
+        </Preference>
+		
+		<Preference 
+            android:id="@+id/device_onclite" 
+            android:icon="@drawable/atom_device" 
+            android:summary="@string/device_onclite_summary" 
+            android:title="@string/device_onclite" > 
+            <intent
+                android:action="android.intent.action.VIEW" 
+                android:data="https://github.com/MArshadR" />
+        </Preference>
+
+
+    </PreferenceCategory>
+	
+    <PreferenceCategory
+        android:id="@+id/device_category_zuk"
+        android:title="@string/device_category_zuk_title" >
+
+        <Preference 
+            android:id="@+id/device_z2_plus" 
+            android:icon="@drawable/atom_device" 
+            android:summary="@string/device_z2_plus_summary" 
+            android:title="@string/device_z2_plus" > 
+            <intent
+                android:action="android.intent.action.VIEW" 
+                android:data="https://github.com/denomparkour" />
         </Preference>
 
     </PreferenceCategory>
