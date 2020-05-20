@@ -16,7 +16,6 @@
 
     <!-- Categories -->
     <string name="about_title">About Atom</string>
-    <string name="gestures_title">Gestures</string>
     <string name="lockscreen_title">Lock screen</string>
     <string name="statusbar_title">Status bar</string>
     <string name="misc_title">Misc</string>
@@ -47,10 +46,6 @@
     <string name="pulse_ambient_light_title">Edge lighting</string>
     <string name="pulse_ambient_light_summary">Light up the side edges of the screen on notification pulse</string>
     <string name="pulse_ambient_light_color_title">Edge light color</string>
-
-    <!-- Three-fingers-swipe to screenshot -->
-    <string name="three_finger_gesture">Swipe to screenshot</string>
-    <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
 
     <!-- Lock screen cover art -->
     <string name="lockscreen_media_art_title">Display media cover art</string>
@@ -317,11 +312,11 @@
     <!-- RGB Accenter -->
     <string name="theme_rgb_title">RGB Accent | Gradient Theming</string>
     <string name="themes_hub_title">Themes Hub</string>
-    <string name="themes_hub_summary">Accents-Gradients-Themes</string>
+    <string name="themes_hub_summary">Atom-Accents & AtomColor-Bucket</string>
     <string name="accent_color">Accent picker</string>
-    <string name="accent_summary">Gradient Maker</string>
-    <string name="gradient_color">Gradient picker</string>
-    <string name="gradient_summary">Gradient effect maker</string>
+    <string name="accent_summary">Accent maker</string>
+    <string name="gradient_color">Accent picker</string>
+    <string name="gradient_summary">Theme picker</string>
 
     <!-- Old mobile type icons -->
     <string name="use_old_mobiletype_title">Small mobile type icon</string>
@@ -585,6 +580,9 @@
     <!-- Force expanded notifications -->
     <string name="force_expanded_notifications_title">Force expanded notifications</string>
     <string name="force_expanded_notifications_summary">Force apps that support expanded notifications</string>
+
+    <!-- Themes customisation -->
+    <string name="theme_customization_systemui_title">Color bucket</string>
 
 </resources>
 
